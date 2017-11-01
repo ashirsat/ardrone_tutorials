@@ -1,0 +1,220 @@
+%% Creator: Inkscape inkscape 0.48.4, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'putative_matches_test1.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{4482.26002351bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.96781534)%
+    \put(0,0){\includegraphics[width=\unitlength]{putative_matches_test1.pdf}}%
+    \put(0.42833465,0.3157363){\makebox(0,0)[b]{\smash{n164}}}%
+    \put(0.75438869,0.69880447){\makebox(0,0)[b]{\smash{n165}}}%
+    \put(0.60654047,0.28770996){\makebox(0,0)[b]{\smash{n163}}}%
+    \put(0.3680054,0.85462132){\makebox(0,0)[b]{\smash{n162}}}%
+    \put(0.75083935,0.42115125){\makebox(0,0)[b]{\smash{n161}}}%
+    \put(0.22525694,0.75277131){\makebox(0,0)[b]{\smash{n160}}}%
+    \put(0.43204011,0.29313318){\makebox(0,0)[b]{\smash{n159}}}%
+    \put(0.71893354,0.39041888){\makebox(0,0)[b]{\smash{n158}}}%
+    \put(0.66848706,0.33136571){\makebox(0,0)[b]{\smash{n157}}}%
+    \put(0.63807815,0.34385631){\makebox(0,0)[b]{\smash{n156}}}%
+    \put(0.52520988,0.30529362){\makebox(0,0)[b]{\smash{n155}}}%
+    \put(0.30482067,0.60612327){\makebox(0,0)[b]{\smash{n154}}}%
+    \put(0.76473987,0.45363708){\makebox(0,0)[b]{\smash{n153}}}%
+    \put(0.79289558,0.70537881){\makebox(0,0)[b]{\smash{n152}}}%
+    \put(0.47507793,0.90086266){\makebox(0,0)[b]{\smash{n151}}}%
+    \put(0.68846892,0.45793149){\makebox(0,0)[b]{\smash{n150}}}%
+    \put(0.6905213,0.3766634){\makebox(0,0)[b]{\smash{n149}}}%
+    \put(0.23921769,0.7030186){\makebox(0,0)[b]{\smash{n148}}}%
+    \put(0.42808923,0.8820275){\makebox(0,0)[b]{\smash{n147}}}%
+    \put(0.52878596,0.77540117){\makebox(0,0)[b]{\smash{n146}}}%
+    \put(0.63492374,0.71225212){\makebox(0,0)[b]{\smash{n145}}}%
+    \put(0.23032322,0.48979716){\makebox(0,0)[b]{\smash{n144}}}%
+    \put(0.5640001,0.75537694){\makebox(0,0)[b]{\smash{n143}}}%
+    \put(0.73159369,0.62562546){\makebox(0,0)[b]{\smash{n142}}}%
+    \put(0.61889943,0.80683178){\makebox(0,0)[b]{\smash{n141}}}%
+    \put(0.45181448,0.2827775){\makebox(0,0)[b]{\smash{n140}}}%
+    \put(0.71504293,0.75156215){\makebox(0,0)[b]{\smash{n139}}}%
+    \put(0.20728087,0.68868084){\makebox(0,0)[b]{\smash{n138}}}%
+    \put(0.24217135,0.42556167){\makebox(0,0)[b]{\smash{n137}}}%
+    \put(0.69316037,0.60828496){\makebox(0,0)[b]{\smash{n136}}}%
+    \put(0.7253183,0.82395589){\makebox(0,0)[b]{\smash{n135}}}%
+    \put(0.45903352,0.56922705){\makebox(0,0)[b]{\smash{n134}}}%
+    \put(0.38928784,0.48730525){\makebox(0,0)[b]{\smash{n133}}}%
+    \put(0.38531022,0.78085562){\makebox(0,0)[b]{\smash{n132}}}%
+    \put(0.77582725,0.77052002){\makebox(0,0)[b]{\smash{n131}}}%
+    \put(0.76523288,0.53578861){\makebox(0,0)[b]{\smash{n130}}}%
+    \put(0.69648439,0.72082084){\makebox(0,0)[b]{\smash{n129}}}%
+    \put(0.56981821,0.88546077){\makebox(0,0)[b]{\smash{n128}}}%
+    \put(0.22584365,0.6037563){\makebox(0,0)[b]{\smash{n127}}}%
+    \put(0.28447075,0.66175874){\makebox(0,0)[b]{\smash{n126}}}%
+    \put(0.4966593,0.85868377){\makebox(0,0)[b]{\smash{n125}}}%
+    \put(0.54636517,0.92353266){\makebox(0,0)[b]{\smash{n124}}}%
+    \put(0.27859019,0.78876625){\makebox(0,0)[b]{\smash{n123}}}%
+    \put(0.67948523,0.86678623){\makebox(0,0)[b]{\smash{n122}}}%
+    \put(0.76433607,0.79973986){\makebox(0,0)[b]{\smash{n121}}}%
+    \put(0.37305385,0.68607297){\makebox(0,0)[b]{\smash{n120}}}%
+    \put(0.81547191,0.58049068){\makebox(0,0)[b]{\smash{n119}}}%
+    \put(0.78444957,0.62504993){\makebox(0,0)[b]{\smash{n118}}}%
+    \put(0.841138,0.64926373){\makebox(0,0)[b]{\smash{n117}}}%
+    \put(0.74344629,0.46820463){\makebox(0,0)[b]{\smash{n116}}}%
+    \put(0.23140297,0.90165909){\makebox(0,0)[b]{\smash{n115}}}%
+    \put(0.79000886,0.65815145){\makebox(0,0)[b]{\smash{n114}}}%
+    \put(0.71787611,0.87112971){\makebox(0,0)[b]{\smash{n113}}}%
+    \put(0.63972679,0.90273662){\makebox(0,0)[b]{\smash{n112}}}%
+    \put(0.00727206,0.5501487){\makebox(0,0)[b]{\smash{n111}}}%
+    \put(0.05049581,0.42877635){\makebox(0,0)[b]{\smash{n110}}}%
+    \put(0.12863044,0.62957413){\makebox(0,0)[b]{\smash{n109}}}%
+    \put(0.25124649,0.9341895){\makebox(0,0)[b]{\smash{n108}}}%
+    \put(0.84709663,0.7086158){\makebox(0,0)[b]{\smash{n107}}}%
+    \put(0.16396934,0.67686173){\makebox(0,0)[b]{\smash{n106}}}%
+    \put(0.29847388,0.80873248){\makebox(0,0)[b]{\smash{n105}}}%
+    \put(0.13239994,0.6719248){\makebox(0,0)[b]{\smash{n104}}}%
+    \put(0.11721177,0.53011108){\makebox(0,0)[b]{\smash{n103}}}%
+    \put(0.61920285,0.94433993){\makebox(0,0)[b]{\smash{n102}}}%
+    \put(0.81216804,0.63836594){\makebox(0,0)[b]{\smash{n101}}}%
+    \put(0.20080936,0.51712523){\makebox(0,0)[b]{\smash{n100}}}%
+    \put(0.82912483,0.50533733){\makebox(0,0)[b]{\smash{n99}}}%
+    \put(0.82927875,0.55440292){\makebox(0,0)[b]{\smash{n98}}}%
+    \put(0.5686403,0.33229822){\makebox(0,0)[b]{\smash{n97}}}%
+    \put(0.49356506,0.35951252){\makebox(0,0)[b]{\smash{n96}}}%
+    \put(0.36625865,0.37744864){\makebox(0,0)[b]{\smash{n95}}}%
+    \put(0.43394525,0.84786408){\makebox(0,0)[b]{\smash{n94}}}%
+    \put(0.53344844,0.7094814){\makebox(0,0)[b]{\smash{n93}}}%
+    \put(0.37708724,0.64239266){\makebox(0,0)[b]{\smash{n92}}}%
+    \put(0.26468297,0.38827279){\makebox(0,0)[b]{\smash{n91}}}%
+    \put(0.39953418,0.3619553){\makebox(0,0)[b]{\smash{n90}}}%
+    \put(0.51044604,0.89858496){\makebox(0,0)[b]{\smash{n89}}}%
+    \put(0.42978248,0.42226445){\makebox(0,0)[b]{\smash{n88}}}%
+    \put(0.31026622,0.39004634){\makebox(0,0)[b]{\smash{n87}}}%
+    \put(0.49537432,0.83918153){\makebox(0,0)[b]{\smash{n86}}}%
+    \put(0.4115184,0.60507254){\makebox(0,0)[b]{\smash{n85}}}%
+    \put(0.20326152,0.58823399){\makebox(0,0)[b]{\smash{n84}}}%
+    \put(0.23577993,0.57270046){\makebox(0,0)[b]{\smash{n83}}}%
+    \put(0.37180234,0.29991501){\makebox(0,0)[b]{\smash{n82}}}%
+    \put(0.31844901,0.85622982){\makebox(0,0)[b]{\smash{n81}}}%
+    \put(0.204588,0.77555509){\makebox(0,0)[b]{\smash{n80}}}%
+    \put(0.26926964,0.83659599){\makebox(0,0)[b]{\smash{n79}}}%
+    \put(0.29042044,0.73908494){\makebox(0,0)[b]{\smash{n78}}}%
+    \put(0.37626183,0.91487914){\makebox(0,0)[b]{\smash{n77}}}%
+    \put(0.28801559,0.32930216){\makebox(0,0)[b]{\smash{n76}}}%
+    \put(0.42047532,0.92379376){\makebox(0,0)[b]{\smash{n75}}}%
+    \put(0.21702863,0.42209046){\makebox(0,0)[b]{\smash{n74}}}%
+    \put(0.65924238,0.65718994){\makebox(0,0)[b]{\smash{n73}}}%
+    \put(0.33433277,0.80354349){\makebox(0,0)[b]{\smash{n72}}}%
+    \put(0.2574282,0.35196326){\makebox(0,0)[b]{\smash{n71}}}%
+    \put(0.65585142,0.40373715){\makebox(0,0)[b]{\smash{n70}}}%
+    \put(0.5193873,0.43654644){\makebox(0,0)[b]{\smash{n69}}}%
+    \put(0.63253444,0.51525351){\makebox(0,0)[b]{\smash{n68}}}%
+    \put(0.55039853,0.66214473){\makebox(0,0)[b]{\smash{n67}}}%
+    \put(0.33377729,0.34284572){\makebox(0,0)[b]{\smash{n66}}}%
+    \put(0.66766388,0.78211381){\makebox(0,0)[b]{\smash{n65}}}%
+    \put(0.46581091,0.6469771){\makebox(0,0)[b]{\smash{n64}}}%
+    \put(0.31959791,0.43207134){\makebox(0,0)[b]{\smash{n63}}}%
+    \put(0.18449038,0.46703566){\makebox(0,0)[b]{\smash{n62}}}%
+    \put(0.35589851,0.72438358){\makebox(0,0)[b]{\smash{n61}}}%
+    \put(0.67122657,0.31219813){\makebox(0,0)[b]{\smash{n60}}}%
+    \put(0.75120524,0.73916528){\makebox(0,0)[b]{\smash{n59}}}%
+    \put(0.80006114,0.48415083){\makebox(0,0)[b]{\smash{n58}}}%
+    \put(0.62879109,0.85859674){\makebox(0,0)[b]{\smash{n57}}}%
+    \put(0.45781995,0.80420158){\makebox(0,0)[b]{\smash{n56}}}%
+    \put(0.48324732,0.29247285){\makebox(0,0)[b]{\smash{n55}}}%
+    \put(0.56714564,0.86130057){\makebox(0,0)[b]{\smash{n54}}}%
+    \put(0.41911001,0.70825219){\makebox(0,0)[b]{\smash{n53}}}%
+    \put(0.26979836,0.53275467){\makebox(0,0)[b]{\smash{n52}}}%
+    \put(0.22054714,0.6465532){\makebox(0,0)[b]{\smash{n51}}}%
+    \put(0.44582459,0.7616769){\makebox(0,0)[b]{\smash{n50}}}%
+    \put(0.28141891,0.69549613){\makebox(0,0)[b]{\smash{n49}}}%
+    \put(0.47096418,0.73073707){\makebox(0,0)[b]{\smash{n48}}}%
+    \put(0.62454799,0.3327823){\makebox(0,0)[b]{\smash{n47}}}%
+    \put(0.61558211,0.88416022){\makebox(0,0)[b]{\smash{n46}}}%
+    \put(0.44579115,0.50908073){\makebox(0,0)[b]{\smash{n45}}}%
+    \put(0.35030128,0.3017644){\makebox(0,0)[b]{\smash{n44}}}%
+    \put(0.76899414,0.37439907){\makebox(0,0)[b]{\smash{n43}}}%
+    \put(0.90628143,0.66152901){\makebox(0,0)[b]{\smash{n42}}}%
+    \put(0.81788348,0.44554573){\makebox(0,0)[b]{\smash{n41}}}%
+    \put(0.34580608,0.57772214){\makebox(0,0)[b]{\smash{n40}}}%
+    \put(0.55355524,0.94842694){\makebox(0,0)[b]{\smash{n39}}}%
+    \put(0.57004353,0.2990985){\makebox(0,0)[b]{\smash{n38}}}%
+    \put(0.78588846,0.87133275){\makebox(0,0)[b]{\smash{n37}}}%
+    \put(0.47764565,0.95134264){\makebox(0,0)[b]{\smash{n36}}}%
+    \put(0.99374243,0.63665935){\makebox(0,0)[b]{\smash{n35}}}%
+    \put(0.90055929,0.44198752){\makebox(0,0)[b]{\smash{n34}}}%
+    \put(0.46416674,0.34088705){\makebox(0,0)[b]{\smash{n33}}}%
+    \put(0.7741407,0.34236164){\makebox(0,0)[b]{\smash{n32}}}%
+    \put(0.80212469,0.94494677){\makebox(0,0)[b]{\smash{n31}}}%
+    \put(0.63847079,0.2172729){\makebox(0,0)[b]{\smash{n30}}}%
+    \put(0.63978256,0.00543168){\makebox(0,0)[b]{\smash{n29}}}%
+    \put(0.31769498,0.23727459){\makebox(0,0)[b]{\smash{n28}}}%
+    \put(0.38806087,0.5421243){\makebox(0,0)[b]{\smash{n27}}}%
+    \put(0.5477728,0.54020573){\makebox(0,0)[b]{\smash{n26}}}%
+    \put(0.36844488,0.87974086){\makebox(0,0)[b]{\smash{n25}}}%
+    \put(0.52224505,0.23460426){\makebox(0,0)[b]{\smash{n24}}}%
+    \put(0.32146291,0.96073459){\makebox(0,0)[b]{\smash{n23}}}%
+    \put(0.3812679,0.44078285){\makebox(0,0)[b]{\smash{n22}}}%
+    \put(0.28060241,0.44387482){\makebox(0,0)[b]{\smash{n21}}}%
+    \put(0.15892936,0.72749116){\makebox(0,0)[b]{\smash{n20}}}%
+    \put(0.24227173,0.77844181){\makebox(0,0)[b]{\smash{n19}}}%
+    \put(0.18839192,0.5417272){\makebox(0,0)[b]{\smash{n18}}}%
+    \put(0.68335351,0.81715622){\makebox(0,0)[b]{\smash{n17}}}%
+    \put(0.58815812,0.62973698){\makebox(0,0)[b]{\smash{n16}}}%
+    \put(0.65572207,0.54927417){\makebox(0,0)[b]{\smash{n15}}}%
+    \put(0.62254245,0.4243771){\makebox(0,0)[b]{\smash{n14}}}%
+    \put(0.50928148,0.51171092){\makebox(0,0)[b]{\smash{n13}}}%
+    \put(0.47475446,0.45742508){\makebox(0,0)[b]{\smash{n12}}}%
+    \put(0.70219537,0.51560153){\makebox(0,0)[b]{\smash{n11}}}%
+    \put(0.51855966,0.4119311){\makebox(0,0)[b]{\smash{n10}}}%
+    \put(0.5814901,0.57294365){\makebox(0,0)[b]{\smash{n9}}}%
+    \put(0.72972872,0.56598337){\makebox(0,0)[b]{\smash{n8}}}%
+    \put(0.54995906,0.36509191){\makebox(0,0)[b]{\smash{n7}}}%
+    \put(0.31374859,0.5193806){\makebox(0,0)[b]{\smash{n6}}}%
+    \put(0.58062449,0.43430221){\makebox(0,0)[b]{\smash{n5}}}%
+    \put(0.33194126,0.46578858){\makebox(0,0)[b]{\smash{n4}}}%
+    \put(0.60204301,0.49323937){\makebox(0,0)[b]{\smash{n3}}}%
+    \put(0.51504605,0.59801853){\makebox(0,0)[b]{\smash{n2}}}%
+    \put(0.62138905,0.7442851){\makebox(0,0)[b]{\smash{n1}}}%
+    \put(0.65532943,0.61000718){\makebox(0,0)[b]{\smash{n0}}}%
+  \end{picture}%
+\endgroup%

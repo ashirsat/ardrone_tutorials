@@ -8,7 +8,8 @@
 # It also tracks the drone state based on navdata feedback
 
 # Import the ROS libraries, and load the manifest file which through <depend package=... /> will give us access to the project dependencies
-import roslib; roslib.load_manifest('ardrone_tutorials')
+import roslib
+roslib.load_manifest('ardrone_tutorials')
 import rospy
 
 # Import the messages we're interested in sending and receiving
@@ -33,12 +34,12 @@ class BasicDroneController(object):
 		self.subNavdata = rospy.Subscriber('/ardrone/navdata',Navdata,self.ReceiveNavdata) 
 		
 		# Allow the controller to publish to the /ardrone/takeoff, land and reset topics
-		self.pubLand    = rospy.Publisher('/ardrone/land',Empty)
-		self.pubTakeoff = rospy.Publisher('/ardrone/takeoff',Empty)
-		self.pubReset   = rospy.Publisher('/ardrone/reset',Empty)
+		self.pubLand    = rospy.Publisher('/ardrone/land',Empty, queue_size=1)
+		self.pubTakeoff = rospy.Publisher('/ardrone/takeoff',Empty, queue_size=1)
+		self.pubReset   = rospy.Publisher('/ardrone/reset',Empty, queue_size=1)
 		
 		# Allow the controller to publish to the /cmd_vel topic and thus control the drone
-		self.pubCommand = rospy.Publisher('/cmd_vel',Twist)
+		self.pubCommand = rospy.Publisher('/cmd_vel',Twist, queue_size=10)
 
 		# Setup regular publishing of control packets
 		self.command = Twist()
@@ -55,7 +56,9 @@ class BasicDroneController(object):
 		# Send a takeoff message to the ardrone driver
 		# Note we only send a takeoff message if the drone is landed - an unexpected takeoff is not good!
 		if(self.status == DroneStatus.Landed):
+			# print "Drone is about to take off"
 			self.pubTakeoff.publish(Empty())
+			# print "Took Off"
 
 	def SendLand(self):
 		# Send a landing message to the ardrone driver
